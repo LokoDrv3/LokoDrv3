@@ -1,4 +1,4 @@
-### Olá eu sou o Daniel Castro! 
+ ### Olá, eu sou o Daniel Castro! 👋
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danzcastro)
