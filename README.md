@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=VpCqJQwcqNzgPmfZSzVRnjTgGTVjKNMDJsRLmXcrJsgbvKVWgbzXrZQVnhHNNQqFdssvdcL)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/r5Yr3u979z)
 
-![Loko GitHub stats](https://github-readme-stats.vercel.app/api?username=LokoDrv3&show_icons=true&theme=transparent))
+![Loko GitHub stats](https://github-readme-stats.vercel.app/api?username=LokoDrv3&show_icons=true&theme=transparent)
 
 ## Technologies I use in my day:
 
