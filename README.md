@@ -58,6 +58,6 @@
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b></h2>
-
+<div align="center">
 ![Loko GitHub stats](https://github-readme-stats.vercel.app/api?username=LokoDrv3&show_icons=true&theme=transparent)
-
+</div>
