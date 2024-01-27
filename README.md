@@ -56,6 +56,7 @@
 <h2 align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b></h2>
 <div align="center">
 <a href="https://github.com/lokodrv3/">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lokodrv3&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="lokodrv3"/>
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lokodrv3&theme=merko&hide_border=true" alt="lokodrv3" /></a>
 </a>
 </div>
