@@ -59,5 +59,7 @@
 
 <h2 align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b></h2>
 <div align="center">
+<a href="https://github.com/lokodrv3/">
 ![Loko GitHub stats](https://github-readme-stats.vercel.app/api?username=LokoDrv3&show_icons=true&theme=transparent)
+</a>
 </div>
